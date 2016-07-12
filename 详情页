@@ -3,6 +3,7 @@
 // and also tracks a standard pageview of the details page.
 dataLayer.push({
   'ecommerce': {
+    'currencyCode': 'USD',   
     'detail': {
       'actionField': {'list': 'Hotel'},    // 'detail' actions have an optional list property. 根据机酒车的不同设置不同的list name: Hotel, Flight, Car
       'products': [{
