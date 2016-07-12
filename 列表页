@@ -14,6 +14,7 @@ dataLayer.push({
        'brand': 'operatorname_en',
        'category': 'countryname_en',
        'variant': 'cityname_en',
+       'list': 'Hotel', //根据机酒车的不同设置不同的list name: Hotel, Flight, Car
        'position': 1
      },
      {
@@ -23,6 +24,7 @@ dataLayer.push({
        'brand': 'operatorname_en',
        'category': 'countryname_en',
        'variant': 'cityname_en',
+       'list': 'Hotel', //根据机酒车的不同设置不同的list name: Hotel, Flight, Car
        'position': 2
      }]
   }
